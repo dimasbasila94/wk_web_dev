@@ -1,0 +1,5 @@
+*.log
+# for vagrant
+### Vagrant ###
+# General
+.vagrant/
